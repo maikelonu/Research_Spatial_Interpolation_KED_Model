@@ -1,5 +1,5 @@
 ![alt test](/sshot-1.png)
-# Spatial_Interpolation_OK
+# Spatial_Interpolation_KED
 Geostatistical Kriging with External Drift Interpolation Method
 
 Instituto Tecnologico de Costa Rica (www.tec.ac.cr)
